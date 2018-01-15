@@ -1,0 +1,19 @@
+<map id="IControls.h" name="IControls.h">
+<area shape="rect" id="node2" href="$_i_control_8h.html" title="The lowest level base class of an IGraphics control. " alt="" coords="991,80,1069,107"/>
+<area shape="rect" id="node3" href="$_i_plug_base_graphics_8h.html" title="An IPlugBase class for an IPlug plug&#45;in that uses IGraphics for it&#39;s UI. " alt="" coords="576,155,721,181"/>
+<area shape="rect" id="node26" href="$_i_graphics_8h.html" title="The lowest level base class of an IGraphics context. " alt="" coords="986,229,1074,256"/>
+<area shape="rect" id="node4" href="$_i_plug_base_8h.html" title="The lowest level base class of an IPlug plug&#45;in. " alt="" coords="342,229,436,256"/>
+<area shape="rect" id="node8" href="$_i_plug_constants_8h.html" title="Constant definitions, magic numbers. " alt="" coords="185,528,308,555"/>
+<area shape="rect" id="node10" href="$_i_plug_structs_8h_source.html" title="IPlugStructs.h" alt="" coords="467,304,572,331"/>
+<area shape="rect" id="node13" href="$_i_plug_byte_chunk_8h_source.html" title="IPlugByteChunk.h" alt="" coords="182,379,310,405"/>
+<area shape="rect" id="node19" href="$_i_param_8h_source.html" title="IParam.h" alt="" coords="385,379,458,405"/>
+<area shape="rect" id="node20" href="$_hosts_8h.html" title="API and host definitions. " alt="" coords="39,379,106,405"/>
+<area shape="rect" id="node22" href="$_log_8h_source.html" title="Log.h" alt="" coords="694,379,748,405"/>
+<area shape="rect" id="node25" href="$_n_chan_delay_8h_source.html" title="NChanDelay.h" alt="" coords="335,304,442,331"/>
+<area shape="rect" id="node17" href="$_i_plug_o_s_detect_8h.html" title="Include to get consistently named preprocessor macros for different platforms. " alt="" coords="1031,528,1152,555"/>
+<area shape="rect" id="node14" href="$_i_plug_utilities_8h.html" title="Utility functions and macros. " alt="" coords="369,453,476,480"/>
+<area shape="rect" id="node27" href="$_i_graphics_constants_8h_source.html" title="IGraphicsConstants.h" alt="" coords="1369,304,1517,331"/>
+<area shape="rect" id="node28" href="$_i_graphics_structs_8h_source.html" title="IGraphicsStructs.h" alt="" coords="965,304,1094,331"/>
+<area shape="rect" id="node29" href="$_i_graphics_utilites_8h_source.html" title="IGraphicsUtilites.h" alt="" coords="1214,304,1344,331"/>
+<area shape="rect" id="node30" href="$_i_popup_menu_8h.html" title="A class for setting the contents of a pop up menu. " alt="" coords="846,379,953,405"/>
+</map>
